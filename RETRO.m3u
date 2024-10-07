@@ -452,7 +452,7 @@ https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Новостные",РБК (HD)
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://epgx.site/p/solovjinypomiot.png" group-title="Новостные",Соловьев.Live (HD)
-https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+https://live-gcore-1.rutube.ru/stream/genetta-324.m9.rutube.ru/3s2R3Zx5jf2_RcNH-NP03Q/1728931882/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
 
 #EXTINF:-1 tvg-id="extreme-sports" tvg-logo="https://epgx.site/p/extreme-sports.png" group-title="Спортивные",Extreme Sports (EDTV 576p)
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8
