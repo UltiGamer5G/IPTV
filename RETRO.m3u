@@ -378,7 +378,7 @@ http://188.190.222.48:8765/Star_Family/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epgx.site/p/tv1000-russkoe-kino.png" group-title="Русский кинозал",Viju TV1000 Русское (EDTV 576p)
 http://185.50.148.2:7703/TV1000RusKino/index.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://epgx.site/p/denpobedy.png" group-title="Русский кинозал",День Победы (HD)
-http://iptv.mega.net.ru:8888/Den_pobedy_hd/mono.m3u8
+https://stream13.sputnik24.tv/den_pobedy_hd/1080p/index.m3u8?sig=1728354083_b6214e58627d88d24d905a53fc2bc273
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://epgx.site/p/domkino.png" group-title="Русский кинозал",Дом Кино (EDTV 576p)
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://epgx.site/p/domkino-premium.png" group-title="Русский кинозал",Дом кино Премиум (HD)
