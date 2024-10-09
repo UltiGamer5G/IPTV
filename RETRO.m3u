@@ -269,7 +269,7 @@ http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 audio-track="rus" tvg-id="epik-drama" tvg-logo="https://epgx.site/p/epik-drama.png" group-title="Кинозал",Epic Drama (HD)
 
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="Кинозал",Cinema (HD)
-http://188.190.222.48:8765/Cinema_HD/tracks-v1a1/mono.m3u8
+https://tvcdnpotok.com/FgGDXREAK_Z0S5Pp2W6VjQ/104/1728510987/index.m3u8
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-logo="https://epgx.site/p/timeless-dizi.png" group-title="Кинозал",Dizi (EDTV 576p)
 http://178.163.0.173:4022/udp/234.0.0.184:2000
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="Кинозал",FAN (EDTV 576p)
