@@ -421,7 +421,7 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Новостные",Россия 24 (WSVGA)
 https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Новостные",РБК (HD)
-http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+https://vk.com/video_ext.php?oid=-25232578&id=456317354&hash=73d1f50f31c76608
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Новостные",Соловьев.Live (HD)
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 
