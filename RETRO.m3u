@@ -426,7 +426,7 @@ http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Кинозал",Премиальное (HD)
 rtmp://5.182.229.90//7222
 #EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Кинозал",Ретро (EDTV 576p)
-http://91.224.169.250:5000/c37
+https://stream1.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sapfir" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="Кинозал",Сапфир (EDTV 576p)
 http://130.193.73.10:8937/play/a01e
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-logo="https://iptvx.one/picons/shokiruyushchee-hd.png" group-title="Кинозал",Шокирующее (HD)
